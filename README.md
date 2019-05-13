@@ -1,10 +1,6 @@
 # telzir
 ```
 por ser uma aplicação simples optei por nao fazer uma arquitetura rest
-(por falta de tempo tbm desculpa).
-Pesso desculpas por acabar deixando passar qualquer requisito.
-horarios apertados, mas quero dizer que estou muito feliz de fazer este desafio
-se eu conseguir passar quero mostrar o quanto valeu a pena me dar uma chance;
 ```
 
 ### Ferramentas
