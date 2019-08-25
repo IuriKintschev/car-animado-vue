@@ -1,14 +1,11 @@
 # telzir
 ```
-por ser uma aplicação simples optei por nao fazer uma arquitetura rest
-```
-
 ### Ferramentas
 
 Win10, vscode, vue.js, bootstrap 4
 
 ## Instale o projeto
-### Certifi que o node e o npm esteja intalado 
+### Certifique que o node e o npm esteja intalado 
 ```
 npm i 
 or 
